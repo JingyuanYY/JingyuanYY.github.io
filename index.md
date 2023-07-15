@@ -26,7 +26,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 - **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes** 
     <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Danny Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), accepted, 2023
-    <br>\[[Dataset (coming soon)]\]\[[PDF]\]
+    <br>[Dataset (coming soon)][PDF]
     
     <div align="center">
     <img src="../assets/5.jpg" width="60%">
