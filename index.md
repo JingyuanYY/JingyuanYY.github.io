@@ -29,7 +29,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[PDF]\]
     
     <div align="center">
-    <img src="../assets/3.png" width="60%">
+    <img src="../assets/5.jpg" width="60%">
     </div>
 
 - **Seeking Subjectivity in Visual Emotion Distribution Learning** 
