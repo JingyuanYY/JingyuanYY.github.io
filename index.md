@@ -28,7 +28,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   &#127881; 
     <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), accepted, 2023
-    <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://arxiv.org/pdf/2307.07961.pdf)\]
+    <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://arxiv.org/pdf/2307.07961v2.pdf)\]
     
     <div align="center">
     <img src="../assets/5.jpg" width="60%">
