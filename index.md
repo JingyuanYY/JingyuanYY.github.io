@@ -103,25 +103,25 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 </center>
 
 <center class="half">
- <img src="../assets/01.jpg" alt="图片1" width="20%">
+ <img src="../assets/01.jpg" alt="图片1" width="10%">
  <div style="text-align: center;">
      <h3>图片1</h3>
      <p>这是图片1的注释。</p >
  </div>
  
- <img src="../assets/02.jpg" alt="图片2" width="20%">
+ <img src="../assets/02.jpg" alt="图片2" width="10%">
  <div style="text-align: center;">
      <h3>图片2</h3>
      <p>这是图片2的注释。</p >
  </div>
 
- <img src="../assets/03.jpg" alt="图片3" width="20%">
+ <img src="../assets/03.jpg" alt="图片3" width="10%">
  <div style="text-align: center;">
      <h3>图片3</h3>
      <p>这是图片3的注释。</p >
  </div>
 
- <img src="../assets/04.jpg" alt="图片4" width="20%">
+ <img src="../assets/04.jpg" alt="图片4" width="10%">
  <div style="text-align: center;">
      <h3>图片4</h3>
      <p>这是图片4的注释。</p >
