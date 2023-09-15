@@ -103,12 +103,10 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 </center>
 
 <center class="half">
- <div style="text-align: center; display: inline-block;">
-     <img src="../assets/01.jpg" alt="图片1" width="20%">
-     <div style="text-align: center;">
-         <h3>图片1</h3>
-         <p>这是图片1的注释。</p >
-     </div>
+ <img src="../assets/01.jpg" alt="图片1" width="20%">
+ <div style="text-align: center;">
+     <h3>图片1</h3>
+     <p>这是图片1的注释。</p >
  </div>
  
  <div style="text-align: center; display: inline-block;">
