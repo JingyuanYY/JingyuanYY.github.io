@@ -1,4 +1,4 @@
-![image](https://github.com/JingyuanYY/JingyuanYY.github.io/assets/43241520/e6e7422b-744c-4c85-93ad-9a7c090a8946)---
+---
 layout: home
 title: "Jingyuan Yang"
 ---
