@@ -102,3 +102,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
  <img src="../assets/01.jpg" width="10%"> <img src="../assets/02.jpg" width="10%"> <img src="../assets/03.jpg" width="10%"> <img src="../assets/04.jpg" width="10%">
 </center>
 
+<div style="display:inline-block">
+ <img src="../assets/01.jpg" width="10%"> <img src="../assets/02.jpg" width="10%"> <img src="../assets/03.jpg" width="10%"> <img src="../assets/04.jpg" width="10%">
+</div>
+
