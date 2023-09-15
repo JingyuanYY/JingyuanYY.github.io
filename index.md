@@ -103,8 +103,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/01.jpg" alt="图片1" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
-        <p>Ph.D. student, co-supervised with Prof. Hui Huang </p >
+        <p>Ph.D. student</p >
         <p>2022-present </p >
+        <p>Co-supervised with Prof. Hui Huang </p >
     </div>
   </div>
   
@@ -112,8 +113,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/02.jpg" alt="图片2" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
-        <p>Master student, co-supervised with Prof. Hui Huang </p >
+        <p>Master student</p >
         <p>2022-present </p >
+        <p>Co-supervised with Prof. Hui Huang </p >
     </div>
   </div>
  
@@ -121,8 +123,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/03.jpg" alt="图片3" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
-        <p>Master student, co-supervised with Prof. Hui Huang </p >
+        <p>Master student</p >
         <p>2022-present </p >
+        <p>Co-supervised with Prof. Hui Huang </p >
     </div>
   </div>
  
