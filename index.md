@@ -94,4 +94,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 # Group
 ---
 
+&#128588;
+**Welcome to join our Emotion Group in VCC!**
+&#128588;
+
+
 
