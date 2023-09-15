@@ -1,4 +1,4 @@
----
+![image](https://github.com/JingyuanYY/JingyuanYY.github.io/assets/43241520/95d0b9d0-d8b5-4b1b-9266-34a289aebb53)---
 layout: home
 title: "Jingyuan Yang (杨景媛)"
 ---
@@ -72,8 +72,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     
 # Fundings
 ---
-- 国家自然科学基金-青年基金项目 (主持，2024-2026)
-- 广东省自然科学基金-面上项目 (主持，2023-2025)
+- National Natural Science Foundation of China, Young Scientists Fund (Hosted, 2024-2026)
+- Natural Science Foundation of Guangdong Province, General program (Hosted, 2023-2025)
     
 
 # Selected Awards
