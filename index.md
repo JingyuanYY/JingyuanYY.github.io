@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jingyuan Yang (杨景媛)"
+title: "Jingyuan Yang"
 ---
 
 # About Me
