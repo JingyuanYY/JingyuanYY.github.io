@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jingyuan Yang"
+title: "Jingyuan Yang (杨景媛)"
 ---
 
 # About Me
@@ -70,7 +70,10 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/1.png" width="60%">
     </div>
     
-
+# Fundings
+---
+- 国家自然科学基金-青年基金项目 (主持，2024-2026)
+- 广东省自然科学基金-面上项目 (主持，2023-2025)
     
 
 # Selected Awards
@@ -87,4 +90,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 - **English Speech** (First place in the Northwest Region Postgraduate English Speech Contest)
 - **Badminton** (Women's singles champion in the Freshmen Cup at Xidian Univeristy)
 - **Piano** (Amateur six level certificate of piano)
+
+# Group
+---
+
 
