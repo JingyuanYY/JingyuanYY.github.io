@@ -105,7 +105,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
         <h3>Tingting Ding</h3>
         <p>Ph.D. student</p >
         <p>2022-present </p >
-        <p>Co-supervised with Prof. Hui Huang </p >
+        <h5>Co-supervised with Prof. Hui Huang </h5 >
     </div>
   </div>
   
@@ -115,7 +115,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
         <h3>Jiasheng Chen</h3>
         <p>Master student</p >
         <p>2022-present </p >
-        <p>Co-supervised with Prof. Hui Huang </p >
+        <h5>Co-supervised with Prof. Hui Huang </h5 >
     </div>
   </div>
  
@@ -125,7 +125,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
         <h3>Bojue Tan</h3>
         <p>Master student</p >
         <p>2022-present </p >
-        <p>Co-supervised with Prof. Hui Huang </p >
+        <h5>Co-supervised with Prof. Hui Huang </h5 >
     </div>
   </div>
  
