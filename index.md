@@ -104,7 +104,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
-    <img src="../assets/01.jpg" alt="图片1" style="max-width: 100%; height: auto;">
+    <img src="../assets/01.jpg" alt="图片1" style="max-width: 20px; height: auto;">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
         <p>这是图片1的注释。</p >
@@ -112,7 +112,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   </div>
   
   <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
-    <img src="../assets/02.jpg" alt="图片2" style="max-width: 100%; height: auto;">
+    <img src="../assets/02.jpg" alt="图片2" style="max-width: 20px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
         <p>这是图片2的注释。</p >
@@ -120,7 +120,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   </div>
  
   <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
-    <img src="../assets/03.jpg" alt="图片3" style="max-width: 100%; height: auto;">
+    <img src="../assets/03.jpg" alt="图片3" style="max-width: 20px; height: auto;">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
         <p>这是图片3的注释。</p >
@@ -128,7 +128,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   </div>
  
   <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
-    <img src="../assets/04.jpg" alt="图片4" style="max-width: 100%; height: auto;">
+    <img src="../assets/04.jpg" alt="图片4" style="max-width: 20px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiawei Feng</h3>
         <p>这是图片4的注释。</p >
