@@ -103,7 +103,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 </center>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
+  <div style="text-align: center; display: inline-block; ">
     <img src="../assets/01.jpg" alt="图片1" width="20%">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
@@ -111,7 +111,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     </div>
   </div>
   
-  <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
+  <div style="text-align: center; display: inline-block; ">
     <img src="../assets/02.jpg" alt="图片2" width="20%">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
@@ -119,7 +119,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     </div>
   </div>
  
-  <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
+  <div style="text-align: center; display: inline-block; ">
     <img src="../assets/03.jpg" alt="图片3" width="20%">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
@@ -127,7 +127,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     </div>
   </div>
  
-  <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
+  <div style="text-align: center;  display: inline-block; ">
     <img src="../assets/04.jpg" alt="图片4" width="20%">
     <div style="text-align: center;">
         <h3>Jiawei Feng</h3>
