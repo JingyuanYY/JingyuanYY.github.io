@@ -98,9 +98,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 **Welcome to join our Emotion Group in VCC!**
 &#128588;
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: top;">
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/01.jpg" alt="图片1" style="max-width: 180px; height: auto;">
+    <img src="../assets/01.jpg" alt="图片1" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
         <p>Ph.D. student</p >
@@ -110,7 +110,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   </div>
   
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/02.jpg" alt="图片2" style="max-width: 180px; height: auto;">
+    <img src="../assets/02.jpg" alt="图片2" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
         <p>Master student</p >
@@ -120,7 +120,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   </div>
  
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/03.jpg" alt="图片3" style="max-width: 180px; height: auto;">
+    <img src="../assets/03.jpg" alt="图片3" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
         <p>Master student</p >
@@ -130,7 +130,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
   </div>
  
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/04.jpg" alt="图片4" style="max-width: 180px; height: auto;">
+    <img src="../assets/04.jpg" alt="图片4" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiawei Feng</h3>
         <p>Master student</p >
