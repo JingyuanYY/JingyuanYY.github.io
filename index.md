@@ -103,7 +103,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/01.jpg" alt="图片1" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
-        <p>Ph.D. student, co-supervised with Prof. Hui Huang, 2022-present </p >
+        <p>Ph.D. student, co-supervised with Prof. Hui Huang </p >
+        <p>2022-present </p >
     </div>
   </div>
   
@@ -111,7 +112,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/02.jpg" alt="图片2" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
-        <p>Master student, co-supervised with Prof. Hui Huang, 2022-present </p >
+        <p>Master student, co-supervised with Prof. Hui Huang </p >
+        <p>2022-present </p >
     </div>
   </div>
  
@@ -119,7 +121,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/03.jpg" alt="图片3" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
-        <p>Master student, co-supervised with Prof. Hui Huang, 2022-present **</p >
+        <p>Master student, co-supervised with Prof. Hui Huang </p >
+        <p>2022-present </p >
     </div>
   </div>
  
@@ -127,7 +130,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/04.jpg" alt="图片4" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiawei Feng</h3>
-        <p>Master student, 2023-present </p >
+        <p>Master student</p >
+        <p>2023-present </p >
     </div>
   </div>
 
