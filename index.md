@@ -98,16 +98,12 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 **Welcome to join our Emotion Group in VCC!**
 &#128588;
 
-<center class="half">
- <img src="../assets/01.jpg" width="10%" title="Tingting Ding"> <img src="../assets/02.jpg" width="10%" title="Jiasheng Chen"> <img src="../assets/03.jpg" width="10%" title="Bojue Tan"> <img src="../assets/04.jpg" width="10%" title="Jiawei Feng">
-</center>
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
     <img src="../assets/01.jpg" alt="图片1" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
-        <p>这是图片1的注释。</p >
+        <p>Ph.D. student, co-supervised with Prof. Hui Huang, 2022-present </p >
     </div>
   </div>
   
@@ -115,7 +111,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/02.jpg" alt="图片2" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
-        <p>这是图片2的注释。</p >
+        <p>Master student, co-supervised with Prof. Hui Huang, 2022-present </p >
     </div>
   </div>
  
@@ -123,7 +119,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/03.jpg" alt="图片3" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
-        <p>这是图片3的注释。</p >
+        <p>Master student, co-supervised with Prof. Hui Huang, 2022-present **</p >
     </div>
   </div>
  
@@ -131,7 +127,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/04.jpg" alt="图片4" style="max-width: 200px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiawei Feng</h3>
-        <p>这是图片4的注释。</p >
+        <p>Master student, 2023-present </p >
     </div>
   </div>
 
