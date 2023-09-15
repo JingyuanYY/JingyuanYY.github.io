@@ -72,8 +72,8 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     
 # Fundings
 ---
-- National Natural Science Foundation of China, Young Scientists Program (Hosted, 2024-2026)
-- Natural Science Foundation of Guangdong Province, General Program (Hosted, 2023-2025)
+- **National Natural Science Foundation of China, Young Scientists Program** (Hosted, 2024-2026)
+- **Natural Science Foundation of Guangdong Province, General Program** (Hosted, 2023-2025)
     
 
 # Selected Awards
