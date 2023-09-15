@@ -93,18 +93,18 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 
 # Group
 ---
-
+<center>
 &#128588;
 **Welcome to join our Emotion Group in VCC!**
 &#128588;
+</center>
 
 <div style="display: flex; justify-content: space-between; align-items: top;">
   <div style="text-align: center; margin-bottom: 20px; display: inline-block; margin-right: 20px;">
     <img src="../assets/01.jpg" alt="图片1" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Tingting Ding</h3>
-        <p>Ph.D. student</p >
-        <p>2022-present</p >
+        <p>Ph.D. student, 2022-present</p >
         <p>Co-supervised with Prof. Hui Huang </p >
     </div>
   </div>
@@ -113,8 +113,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/02.jpg" alt="图片2" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiasheng Chen</h3>
-        <p>Master student</p >
-        <p>2022-present</p >
+        <p>Master student, 2022-present</p >
         <p>Co-supervised with Prof. Hui Huang </p >
     </div>
   </div>
@@ -123,8 +122,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/03.jpg" alt="图片3" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Bojue Tan</h3>
-        <p>Master student</p >
-        <p>2022-present</p >
+        <p>Master student, 2022-present</p >
         <p>Co-supervised with Prof. Hui Huang </p >
     </div>
   </div>
@@ -133,8 +131,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <img src="../assets/04.jpg" alt="图片4" style="max-width: 160px; height: auto;">
     <div style="text-align: center;">
         <h3>Jiawei Feng</h3>
-        <p>Master student</p >
-        <p>2023-present </p >
+        <p>Master student, 2023-present </p >
         <p></p >
     </div>
   </div>
