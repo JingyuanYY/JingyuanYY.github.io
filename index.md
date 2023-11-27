@@ -20,6 +20,13 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 <p><b> &#129303; Contact me: jyyang@szu.edu.cn &#129303; </b></p> 
 
 
+# News
+---
+
+- 2023.11.26: Our paper has won the best poster award in the 2023 CSIG conference on emotional intelligence.
+- 2023.11.25: I serve as the executive chair of the visual emotion computing forum in the 2023 CSIG conference on emotional intelligence.
+- 2023.07.14: One paper, EmoSet, has been accepted to ICCV 2023.
+
 # Publications
 ---
 
