@@ -8,31 +8,27 @@ title: "Jingyuan Yang"
 
 I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017. My research interest is computer vision, currently with emphasis on visual emotion analysis. I am also interested in image aesthetics and generation tasks.
 
-&#10024;
 **I am looking for master students who are motivated, self-disciplined and optimistic.**
 &#10024;
 
-&#129412;
 **I am also expecting undergraduate students to contact me with your graduation projects.**
 &#129412;
 
 
-<p><b> &#129303; Contact me: jyyang@szu.edu.cn &#129303; </b></p> 
+<p><b>Contact me: jyyang@szu.edu.cn &#129303; </b></p> 
 
 
 # News
 ---
 
-- 2023.11.26: One paper has won the Best Poster Award in the 2023 CSIG Conference on Emotional Intelligence.
-- 2023.11.25: I served as the Executive Chair of the visual emotion computing forum in the 2023 CSIG Conference on Emotional Intelligence.
-- 2023.07.14: One paper, EmoSet, has been accepted to ICCV 2023.
+- 2023.11.26: One paper has won the Best Poster Award in the 2023 CSIG Conference on Emotional Intelligence. &#127942;
+- 2023.11.25: I served as the Executive Chair of the visual emotion forum in the 2023 CSIG Conference on Emotional Intelligence. &#128084;
+- 2023.07.14: One paper, EmoSet, has been accepted to ICCV 2023. &#127881;
 
 # Publications
 ---
 
-- &#127881;
-  **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
-  &#127881; 
+- **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
     <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), accepted, 2023
     <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://arxiv.org/pdf/2307.07961v2.pdf)\]
