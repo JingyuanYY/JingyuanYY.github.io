@@ -21,9 +21,9 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 # News
 ---
 
-- 2023.11.26: One paper has won the Best Poster Award in the 2023 CSIG Conference on Emotional Intelligence. &#127942;
-- 2023.11.25: I served as the Executive Chair of the visual emotion forum in the 2023 CSIG Conference on Emotional Intelligence. &#128084;
-- 2023.07.14: One paper, EmoSet, has been accepted to ICCV 2023. &#127881;
+- **2023.11.26**: One paper has won the Best Poster Award in the 2023 CSIG Conference on Emotional Intelligence. &#127942;
+- **2023.11.25**: I served as the Executive Chair of the visual emotion forum in the 2023 CSIG Conference on Emotional Intelligence. &#128084;
+- **2023.07.14**: One paper, EmoSet, has been accepted to ICCV 2023. &#127881;
 
 # Publications
 ---
