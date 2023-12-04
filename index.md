@@ -8,14 +8,9 @@ title: "Jingyuan Yang"
 
 I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017. My research interest is computer vision, currently with emphasis on visual emotion analysis. I am also interested in image aesthetics and generation tasks.
 
-**I am looking for master students who are motivated, self-disciplined and optimistic.**
-&#10024;
-
-**I am also expecting undergraduate students to contact me with your graduation projects.**
-&#129412;
-
-
-<p><b>Contact me: jyyang@szu.edu.cn &#129303; </b></p> 
+- **I am looking for master students who are motivated, self-disciplined and optimistic.** &#10024;
+- **I am also expecting undergraduate students to contact me with your graduation projects.** &#129412;
+- <b>Contact me: jyyang@szu.edu.cn &#129303; </b>
 
 
 # News
