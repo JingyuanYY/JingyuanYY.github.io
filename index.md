@@ -53,7 +53,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 - **SOLVER: Scene-Object Interrelated Visual Emotion Reasoning Network** 
     <br>**Jingyuan Yang**, Xinbo Gao\*, Leida Li, Xiumei Wang, and Jinshan Ding
     <br>IEEE Transactions on Image Processing (**TIP**), 30, 8686-8701, 2021
-    <br>[[Code](https://github.com/JingyuanYY/SOLVER)\]\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9580604)\]
+    <br>[[Code](https://github.com/JingyuanYY/SOLVER)\]\[[PDF](https://ieeexplore.ieee.org/abstract/document/9580604)\]
     
     <div align="center">
     <img src="../assets/2.png" width="60%">
