@@ -30,7 +30,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[Project page]\]\[[Code]\]\[[PDF](https://arxiv.org/pdf/2401.04608.pdf)\]
     
     <div align="center">
-    <img src="../assets/5.jpg" width="60%">
+    <img src="../assets/6.jpg" width="60%">
     </div>
 
 - **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
