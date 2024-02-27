@@ -24,9 +24,18 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 # Publications
 ---
 
+- **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
+    <br>**Jingyuan Yang**, Jiawei Feng, and Hui Huang\*
+    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), accepted, 2024
+    <br>\[[Project page]\]\[[Code]\]\[[PDF](https://arxiv.org/pdf/2401.04608.pdf)\]
+    
+    <div align="center">
+    <img src="../assets/5.jpg" width="60%">
+    </div>
+
 - **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
     <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
-    <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), accepted, 2023
+    <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), 20383-20394, 2023
     <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_EmoSet_A_Large-scale_Visual_Emotion_Dataset_with_Rich_Attributes_ICCV_2023_paper.html)\]
     
     <div align="center">
