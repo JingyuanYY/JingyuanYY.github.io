@@ -1,4 +1,4 @@
----
+![image](https://github.com/JingyuanYY/JingyuanYY.github.io/assets/43241520/1befda5c-5aaa-4162-be4c-31162ae9360e)---
 layout: home
 title: "Jingyuan Yang"
 ---
@@ -27,7 +27,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
 - **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
     <br>**Jingyuan Yang**, Jiawei Feng, and Hui Huang\*
     <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), accepted, 2024
-    <br>[Project page][Code]\[[PDF](https://arxiv.org/pdf/2401.04608.pdf)\]
+    <br>[Project page]\[[Code](https://github.com/JingyuanYY/EmoGen)\]\[[PDF](https://arxiv.org/pdf/2401.04608.pdf)\]
     
     <div align="center">
     <img src="../assets/6.png" width="60%">
