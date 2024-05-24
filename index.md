@@ -30,7 +30,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[PDF](https://arxiv.org/pdf/2405.12661)\]
     
     <div align="center">
-    <img src="../assets/7.png" width="70%">
+    <img src="../assets/07.png" width="70%">
     </div>
 
 - **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
