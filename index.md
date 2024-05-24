@@ -30,7 +30,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[PDF](https://arxiv.org/pdf/2405.12661)\]
     
     <div align="center">
-    <img src="../assets/7.png" width="60%">
+    <img src="../assets/7.png" width="80%">
     </div>
 
 - **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
@@ -39,7 +39,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[Project page](https://vcc.tech/research/2024/EmoGen)\]\[[Code](https://github.com/JingyuanYY/EmoGen)\]\[[PDF](https://arxiv.org/pdf/2401.04608.pdf)\]
     
     <div align="center">
-    <img src="../assets/6.png" width="60%">
+    <img src="../assets/6.png" width="80%">
     </div>
 
 - **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
@@ -48,7 +48,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_EmoSet_A_Large-scale_Visual_Emotion_Dataset_with_Rich_Attributes_ICCV_2023_paper.html)\]
     
     <div align="center">
-    <img src="../assets/5.jpg" width="60%">
+    <img src="../assets/5.jpg" width="80%">
     </div>
 
 - **Seeking Subjectivity in Visual Emotion Distribution Learning** 
@@ -57,7 +57,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>[[Code](https://github.com/JingyuanYY/SAMNet)\]\[[PDF](https://ieeexplore.ieee.org/abstract/document/9846869)\]
     
     <div align="center">
-    <img src="../assets/4.png" width="60%">
+    <img src="../assets/4.png" width="80%">
     </div>
 
 - **A Circular-Structured Representation for Visual Emotion Distribution Learning** 
@@ -66,7 +66,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>[[Code](https://github.com/JingyuanYY/Circular-structured-representation)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_A_Circular-Structured_Representation_for_Visual_Emotion_Distribution_Learning_CVPR_2021_paper.html)\]
     
     <div align="center">
-    <img src="../assets/3.png" width="60%">
+    <img src="../assets/3.png" width="80%">
     </div>
 
 - **SOLVER: Scene-Object Interrelated Visual Emotion Reasoning Network** 
@@ -75,7 +75,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>[[Code](https://github.com/JingyuanYY/SOLVER)\]\[[PDF](https://ieeexplore.ieee.org/abstract/document/9580604)\]
     
     <div align="center">
-    <img src="../assets/2.png" width="60%">
+    <img src="../assets/2.png" width="80%">
     </div>
 
 - **Stimuli-Aware Visual Emotion Analysis** 
@@ -84,7 +84,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>[[Code](https://github.com/JingyuanYY/Stimuli-aware-VEA)\]\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9524517)\]
     
     <div align="center">
-    <img src="../assets/1.png" width="60%">
+    <img src="../assets/1.png" width="80%">
     </div>
     
 # Fundings
