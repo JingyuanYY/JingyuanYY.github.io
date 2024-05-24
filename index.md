@@ -48,7 +48,7 @@ I am currently an Assistant Professor with the [Visual Computing Research Center
     <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_EmoSet_A_Large-scale_Visual_Emotion_Dataset_with_Rich_Attributes_ICCV_2023_paper.html)\]
     
     <div align="center">
-    <img src="../assets/5.jpg" width="70%">
+    <img src="../assets/5.jpg" width="90%">
     </div>
 
 - **Seeking Subjectivity in Visual Emotion Distribution Learning** 
