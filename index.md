@@ -143,6 +143,3 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </div>
   </div>
 </div>
-  </div>
-
-</div>
