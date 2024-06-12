@@ -113,7 +113,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Tingting Ding</h3>
       <p style="margin: 0px 0;">Ph.D., 2022-present</p>
-      <p style="margin: 0px 0;">Co-advised with Prof. Huang</p>
+      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
     </div>
   </div>
 
@@ -122,7 +122,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Jiasheng Chen</h3>
       <p style="margin: 0px 0;">Master, 2022-present</p>
-      <p style="margin: 0px 0;">Co-advised with Prof. Huang</p>
+      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
     </div>
   </div>
 
