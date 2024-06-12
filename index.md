@@ -111,8 +111,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/01.jpg" alt="图片1" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 3px 0; font-size: 16px">Tingting Ding</h3>
-      <p style="margin: 1px 0;">Ph.D. 2022-present</p>
+      <h3 style="margin: 2px 0; font-size: 18px">Tingting Ding</h3>
+      <p style="margin: 0px 0;">Ph.D., 2022-present</p>
       <p style="margin: 0px 0;">Co-advised with Prof. Huang</p>
     </div>
   </div>
@@ -120,8 +120,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/02.jpg" alt="图片2" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 3px 0; font-size: 16px">Jiasheng Chen</h3>
-      <p style="margin: 1px 0;">Master 2022-present</p>
+      <h3 style="margin: 2px 0; font-size: 18px">Jiasheng Chen</h3>
+      <p style="margin: 0px 0;">Master, 2022-present</p>
       <p style="margin: 0px 0;">Co-advised with Prof. Huang</p>
     </div>
   </div>
@@ -129,32 +129,32 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/04.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 3px 0; font-size: 16px">Jiawei Feng</h3>
-      <p style="margin: 0px 0;">Master 2023-present</p>
+      <h3 style="margin: 2px 0; font-size: 18px">Jiawei Feng</h3>
+      <p style="margin: 0px 0;">Master, 2023-present</p>
     </div>
   </div>
   
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/05.jpg" alt="图片5" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 3px 0; font-size: 16px">Weibin Luo</h3>
-      <p style="margin: 0px 0;">Master 2024-present</p>
+      <h3 style="margin: 2px 0; font-size: 18px">Weibin Luo</h3>
+      <p style="margin: 0px 0;">Master, 2024-present</p>
     </div>
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/06.jpg" alt="图片6" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 3px 0; font-size: 16px">Zihuan Bai</h3>
-      <p style="margin: 0px 0;">Master 2024-present</p>
+      <h3 style="margin: 2px 0; font-size: 18px">Zihuan Bai</h3>
+      <p style="margin: 0px 0;">Master, 2024-present</p>
     </div>
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/06.jpg" alt="图片6" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 3px 0; font-size: 16px">Rucong Chen</h3>
-      <p style="margin: 0px 0;">Master 2024-present</p>
+      <h3 style="margin: 2px 0; font-size: 18px">Rucong Chen</h3>
+      <p style="margin: 0px 0;">Master, 2024-present</p>
     </div>
   </div>
 </div>
