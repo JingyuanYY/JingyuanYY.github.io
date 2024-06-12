@@ -109,7 +109,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 <div style="display: flex; justify-content: space-between; align-items: top;">
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/01.jpg" alt="图片1" style="max-width: 160px; height: auto;">
+    <img src="../assets/01.jpg" alt="图片1" style="max-width: 160px; height: auto; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Tingting Ding</h3>
       <p style="margin: 2px 0;">Ph.D. student, 2022.09-present</p>
@@ -118,7 +118,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/02.jpg" alt="图片2" style="max-width: 160px; height: auto;">
+    <img src="../assets/02.jpg" alt="图片2" style="max-width: 160px; height: auto; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Jiasheng Chen</h3>
       <p style="margin: 2px 0;">Master student, 2022.09-present</p>
@@ -127,7 +127,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/03.jpg" alt="图片3" style="max-width: 160px; height: auto;">
+    <img src="../assets/03.jpg" alt="图片3" style="max-width: 160px; height: auto; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Bojue Tan</h3>
       <p style="margin: 2px 0;">Master student, 2022.09-present</p>
@@ -136,7 +136,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/04.jpg" alt="图片4" style="max-width: 160px; height: auto;">
+    <img src="../assets/04.jpg" alt="图片4" style="max-width: 160px; height: auto; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Jiawei Feng</h3>
       <p style="margin: 2px 0;">Master student, 2023.09-present</p>
