@@ -107,39 +107,60 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   <h3 style="margin-bottom: 10px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
 </center>
 
-<div style="display: flex; justify-content: space-between; align-items: top;">
+<div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/01.jpg" alt="图片1" style="max-width: 160px; height: auto; border-radius: 50%;">
+    <img src="../assets/01.jpg" alt="图片1" style="width: 120px; height: 120px; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Tingting Ding</h3>
-      <p style="margin: 2px 0;">Ph.D. student, 2022.09-present</p>
-      <p style="margin: 2px 0;">Co-supervised with Prof. Hui Huang</p>
+      <p style="margin: 2px 0;">Ph.D. student</p>
+      <p style="margin: 2px 0;">2022.09-present</p>
+      <p style="margin: 2px 0;">Co-supervised</p>
     </div>
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/02.jpg" alt="图片2" style="max-width: 160px; height: auto; border-radius: 50%;">
+    <img src="../assets/02.jpg" alt="图片2" style="width: 120px; height: 120px; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Jiasheng Chen</h3>
-      <p style="margin: 2px 0;">Master student, 2022.09-present</p>
-      <p style="margin: 2px 0;">Co-supervised with Prof. Hui Huang</p>
+      <p style="margin: 2px 0;">Master student</p>
+      <p style="margin: 2px 0;">2022.09-present</p>
+      <p style="margin: 2px 0;">Co-supervised</p>
     </div>
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/03.jpg" alt="图片3" style="max-width: 160px; height: auto; border-radius: 50%;">
-    <div style="text-align: center;">
-      <h3 style="margin: 5px 0;">Bojue Tan</h3>
-      <p style="margin: 2px 0;">Master student, 2022.09-present</p>
-      <p style="margin: 2px 0;">Co-supervised with Prof. Hui Huang</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/04.jpg" alt="图片4" style="max-width: 160px; height: auto; border-radius: 50%;">
+    <img src="../assets/04.jpg" alt="图片4" style="width: 120px; height: 120px; border-radius: 50%;">
     <div style="text-align: center;">
       <h3 style="margin: 5px 0;">Jiawei Feng</h3>
-      <p style="margin: 2px 0;">Master student, 2023.09-present</p>
+      <p style="margin: 2px 0;">Master student</p>
+      <p style="margin: 2px 0;">2023.09-present</p>
+    </div>
+  </div>
+  
+  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
+    <img src="../assets/05.jpg" alt="图片4" style="width: 120px; height: 120px; border-radius: 50%;">
+    <div style="text-align: center;">
+      <h3 style="margin: 5px 0;">Weibin Luo</h3>
+      <p style="margin: 2px 0;">Master student</p>
+      <p style="margin: 2px 0;">2024.09-present</p>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
+    <img src="../assets/06.jpg" alt="图片4" style="width: 120px; height: 120px; border-radius: 50%;">
+    <div style="text-align: center;">
+      <h3 style="margin: 5px 0;">Zihuan Bai</h3>
+      <p style="margin: 2px 0;">Master student</p>
+      <p style="margin: 2px 0;">2024.09-present</p>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
+    <img src="../assets/06.jpg" alt="图片4" style="width: 120px; height: 120px; border-radius: 50%;">
+    <div style="text-align: center;">
+      <h3 style="margin: 5px 0;">Rucong Chen</h3>
+      <p style="margin: 2px 0;">Master student</p>
+      <p style="margin: 2px 0;">2024.09-present</p>
     </div>
   </div>
 </div>
