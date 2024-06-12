@@ -113,8 +113,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 3px 0;">Tingting Ding</h3>
       <p style="margin: 1px 0;">Ph.D. student</p>
-      <p style="margin: 1px 0;">2022.09-present</p>
-      <p style="margin: 1px 0;">Co-supervised</p>
+      <p style="margin: 0px 0;">2022.09-present</p>
+      <p style="margin: 0px 0;">Co-supervised</p>
     </div>
   </div>
 
@@ -123,8 +123,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 3px 0;">Jiasheng Chen</h3>
       <p style="margin: 1px 0;">Master student</p>
-      <p style="margin: 1px 0;">2022.09-present</p>
-      <p style="margin: 1px 0;">Co-supervised</p>
+      <p style="margin: 0px 0;">2022.09-present</p>
+      <p style="margin: 0px 0;">Co-supervised</p>
     </div>
   </div>
 
@@ -132,8 +132,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <img src="../assets/04.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 3px 0;">Jiawei Feng</h3>
-      <p style="margin: 1px 0;">Master student</p>
-      <p style="margin: 1px 0;">2023.09-present</p>
+      <p style="margin: 0px 0;">Master student</p>
+      <p style="margin: 0px 0;">2023.09-present</p>
     </div>
   </div>
   
@@ -141,8 +141,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <img src="../assets/05.jpg" alt="图片5" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 3px 0;">Weibin Luo</h3>
-      <p style="margin: 1px 0;">Master student</p>
-      <p style="margin: 1px 0;">2024.09-present</p>
+      <p style="margin: 0px 0;">Master student</p>
+      <p style="margin: 0px 0;">2024.09-present</p>
     </div>
   </div>
 
@@ -150,8 +150,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <img src="../assets/06.jpg" alt="图片6" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 3px 0;">Zihuan Bai</h3>
-      <p style="margin: 1px 0;">Master student</p>
-      <p style="margin: 1px 0;">2024.09-present</p>
+      <p style="margin: 0px 0;">Master student</p>
+      <p style="margin: 0px 0;">2024.09-present</p>
     </div>
   </div>
 
@@ -159,8 +159,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <img src="../assets/06.jpg" alt="图片6" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 3px 0;">Rucong Chen</h3>
-      <p style="margin: 1px 0;">Master student</p>
-      <p style="margin: 1px 0;">2024.09-present</p>
+      <p style="margin: 0px 0;">Master student</p>
+      <p style="margin: 0px 0;">2024.09-present</p>
     </div>
   </div>
 </div>
