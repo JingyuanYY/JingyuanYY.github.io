@@ -113,7 +113,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Tingting Ding</h3>
       <p style="margin: 0px 0;">Ph.D., 2022-present</p>
-      <p style="margin: 0px 0; font-size: 10px">Co-advised by Prof. Huang</p>
+      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
     </div>
   </div>
 
@@ -122,7 +122,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Jiasheng Chen</h3>
       <p style="margin: 0px 0;">Master, 2022-present</p>
-      <p style="margin: 0px 0; font-size: 10px">Co-advised by Prof. Huang</p>
+      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
     </div>
   </div>
 
@@ -143,7 +143,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/06.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
+    <img src="../assets/04.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Zihuan Bai</h3>
       <p style="margin: 0px 0;">Master, 2024-present</p>
@@ -151,7 +151,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   </div>
 
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/06.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
+    <img src="../assets/05.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Rucong Chen</h3>
       <p style="margin: 0px 0;">Master, 2024-present</p>
