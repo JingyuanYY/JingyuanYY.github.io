@@ -28,8 +28,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 - **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
     <br>**Jingyuan Yang**, Jiawei Feng, and Hui Huang\*
-    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), accepted, 2024
-    <br>\[[Project page](https://vcc.tech/research/2024/EmoGen)\]\[[Code](https://github.com/JingyuanYY/EmoGen)\]\[[PDF](https://arxiv.org/pdf/2401.04608.pdf)\]
+    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 6358-6368, 2024
+    <br>\[[Project page](https://vcc.tech/research/2024/EmoGen)\]\[[Code](https://github.com/JingyuanYY/EmoGen)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_EmoGen_Emotional_Image_Content_Generation_with_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html)\]
     
     <div align="center">
     <img src="../assets/6.png" width="70%">
