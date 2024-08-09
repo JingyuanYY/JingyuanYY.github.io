@@ -37,7 +37,6 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </div>
 
 - **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
-    <br> Graphic Open Source Dataset Award (CCF CAD&CG 2024) &#127942;
     <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), 20383-20394, 2023
     <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_EmoSet_A_Large-scale_Visual_Emotion_Dataset_with_Rich_Attributes_ICCV_2023_paper.html)\]
@@ -56,7 +55,6 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </div>
 
 - **A Circular-Structured Representation for Visual Emotion Distribution Learning** 
-    <br> Best Poster Award (CSIG CEI 2023) &#127942;
     <br>**Jingyuan Yang**, Jie Li, Leida Li, Xiumei Wang, and Xinbo Gao\*
     <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 4237-4246, 2021
     <br>[[Code](https://github.com/JingyuanYY/Circular-structured-representation)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_A_Circular-Structured_Representation_for_Visual_Emotion_Distribution_Learning_CVPR_2021_paper.html)\]
@@ -92,6 +90,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # Selected Awards
 ---
 
+- **Graphic Open Source Dataset Award**, by CCF CAD&CG, 2024
+- **Best Poster Award**, by CSIG CEI, 2023
 - **Outstanding Graduate of Shaanxi Province**, by Education Department of Shaanxi Provincial Government, 2022
 - **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2021
 - **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015
