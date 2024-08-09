@@ -93,7 +93,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 - **Graphic Open Source Dataset Award**, by CCF CAD&CG, 2024
 - **Best Poster Award**, by CSIG CEI, 2023
 - **Outstanding Graduate of Shaanxi Province**, by Education Department of Shaanxi Provincial Government, 2022
-- **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015&2021
+- **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015 & 2021
 - **Speaking as the only student representative at the 90th Anniversary Celebration of Xidian University**, 2021
 
 # Hobbies
