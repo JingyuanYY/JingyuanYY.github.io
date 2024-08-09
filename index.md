@@ -28,7 +28,6 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 ---
 
 - **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
-    <br> Graphic Open Source Dataset Award (CCF CAD&CG 2024) &#127942;
     <br>**Jingyuan Yang**, Jiawei Feng, and Hui Huang\*
     <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 6358-6368, 2024
     <br>\[[Project page](https://vcc.tech/research/2024/EmoGen)\]\[[Code](https://github.com/JingyuanYY/EmoGen)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_EmoGen_Emotional_Image_Content_Generation_with_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html)\]
@@ -38,6 +37,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </div>
 
 - **EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes**
+    <br> Graphic Open Source Dataset Award (CCF CAD&CG 2024) &#127942;
     <br>**Jingyuan Yang**, Qirui Huang, Tingting Ding, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), 20383-20394, 2023
     <br>\[[Project page](https://vcc.tech/EmoSet)\]\[[Code](https://github.com/JingyuanYY/EmoSet)\]\[[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_EmoSet_A_Large-scale_Visual_Emotion_Dataset_with_Rich_Attributes_ICCV_2023_paper.html)\]
