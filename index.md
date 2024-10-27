@@ -19,10 +19,10 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 ---
 
 - **2024.08.08**: EmoSet has won the Graphic Open Source Dataset Award (CCF CAD&CG 2024). &#127942;
-- **2024.02.27**: One paper, EmoGen, has been accepted to CVPR 2024. Congrats to Jiawei! &#127881;
+- **2024.02.27**: EmoGen has been accepted to CVPR 2024. Congrats to Jiawei! &#127881;
 - **2023.11.26**: One paper has won the Best Poster Award (CSIG CEI 2023). &#127942;
 - **2023.11.25**: I served as the Executive Chair of the visual emotion forum in the 2023 CSIG Conference on Emotional Intelligence. &#128084;
-- **2023.07.14**: One paper, EmoSet, has been accepted to ICCV 2023. Congrats to Qirui and Tingting! &#127881;
+- **2023.07.14**: EmoSet has been accepted to ICCV 2023. Congrats to Qirui and Tingting! &#127881;
 
 # Publications
 ---
