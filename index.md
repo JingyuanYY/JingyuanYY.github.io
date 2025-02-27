@@ -103,6 +103,13 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 ---
 - **National Natural Science Foundation of China, Young Scientists Program** (Hosted, 2024-2026)
 - **Natural Science Foundation of Guangdong Province, General Program** (Hosted, 2023-2025)
+
+# Teaching
+---
+
+- **Introduction to Visualization (可视化信息处理导论)** – Undergraduate Course
+- **Professional English (专业英语)** – Undergraduate Course
+- **Machine Learning (机器学习)** – Graduate Course
     
 
 # Selected Awards
