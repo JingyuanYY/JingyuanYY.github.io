@@ -25,6 +25,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # News
 ---
 
+- **2025.02.27**: EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin! &#127881;
 - **2024.08.08**: EmoSet has won the Graphic Open Source Dataset Award (CCF CAD&CG 2024). &#127942;
 - **2024.02.27**: EmoGen has been accepted to CVPR 2024. Congrats to Jiawei! &#127881;
 - **2023.11.26**: One paper has won the Best Poster Award (CSIG CEI 2023). &#127942;
@@ -33,6 +34,15 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 # Publications
 ---
+
+- **EmoEdit: Evoking Emotions through Image Manipulation**
+    <br>**Jingyuan Yang**, Jiawei Feng, Weibin Luo, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
+    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), accepted, 2025
+    <br>\[[Project page]\]\[[Code]\]\[[PDF](https://arxiv.org/pdf/2405.12661)\]
+    
+    <div align="center">
+    <img src="../assets/7.png" width="70%">
+    </div>
 
 - **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**
     <br>**Jingyuan Yang**, Jiawei Feng, and Hui Huang\*
