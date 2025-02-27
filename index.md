@@ -39,7 +39,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 - **EmoEdit: Evoking Emotions through Image Manipulation**
     <br>**Jingyuan Yang**, Jiawei Feng, Weibin Luo, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2025
-    <br>\[[Project page]\]\[[Code]\]\[[PDF](https://arxiv.org/pdf/2405.12661)\]
+    <br>\[[Project page]\]\[[Code](https://github.com/JingyuanYY/EmoEdit)\]\[[PDF](https://arxiv.org/pdf/2405.12661)\]
     
     <div align="center">
     <img src="../assets/7.png" width="70%">
