@@ -131,54 +131,46 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # Group
 ---
 <center>
-  <h3 style="margin-bottom: 10px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
+  <h3 style="margin-bottom: 20px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
 </center>
 
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/jiawei.jpg" alt="图片1" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Jiawei Feng</h3>
-      <p style="margin: 0px 0;">Master, 2023-present</p>
-    </div>
-  </div>
-  
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/weibin.jpg" alt="图片2" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Weibin Luo</h3>
-      <p style="margin: 0px 0;">Master, 2024-present</p>
-    </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- 成员卡片 -->
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/jiawei.jpg" alt="Jiawei" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Jiawei Feng</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2023-present</p>
   </div>
 
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/zihuan.jpg" alt="图片3" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Zihuan Bai</h3>
-      <p style="margin: 0px 0;">Master, 2024-present</p>
-    </div>
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/weibin.jpg" alt="Weibin" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Weibin Luo</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
   </div>
 
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/rucong.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Rucong Chen</h3>
-      <p style="margin: 0px 0;">Master, 2024-present</p>
-    </div>
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/zihuan.jpg" alt="Zihuan" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Zihuan Bai</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
   </div>
 
-<div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/ruoji.jpg" alt="图片5" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Ruoji Wang</h3>
-      <p style="margin: 0px 0;">Master, 2025-present</p>
-    </div>
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/rucong.jpg" alt="Rucong" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Rucong Chen</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
   </div>
 
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/jiaxi.jpg" alt="图片6" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Jiaxi Zhao</h3>
-      <p style="margin: 0px 0;">Master, 2025-present</p>
-    </div>
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/ruoji.jpg" alt="Ruoji" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Ruoji Wang</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
+
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/jiaxi.jpg" alt="Jiaxi" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Jiaxi Zhao</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
+  </div>
+</div>
+
 </div>
