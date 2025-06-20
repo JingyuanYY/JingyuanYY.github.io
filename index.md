@@ -134,25 +134,6 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   <h3 style="margin-bottom: 10px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
 </center>
 
-<div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/01.jpg" alt="图片1" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Tingting Ding</h3>
-      <p style="margin: 0px 0;">Ph.D., 2022-present</p>
-      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/02.jpg" alt="图片2" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Jiasheng Chen</h3>
-      <p style="margin: 0px 0;">Master, 2022-present</p>
-      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
-    </div>
-  </div>
-
   <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
     <img src="../assets/04.jpg" alt="图片3" style="width: 160px; height: 160px; border-radius: 50%;">
     <div style="text-align: center; font-size: 12px;">
@@ -182,6 +163,22 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <div style="text-align: center; font-size: 12px;">
       <h3 style="margin: 2px 0; font-size: 18px">Rucong Chen</h3>
       <p style="margin: 0px 0;">Master, 2024-present</p>
+    </div>
+  </div>
+
+    <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
+    <img src="../assets/01.jpg" alt="图片5" style="width: 160px; height: 160px; border-radius: 50%;">
+    <div style="text-align: center; font-size: 12px;">
+      <h3 style="margin: 2px 0; font-size: 18px">Ruoji Wang</h3>
+      <p style="margin: 0px 0;">Master, 2025-present</p>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
+    <img src="../assets/02.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
+    <div style="text-align: center; font-size: 12px;">
+      <h3 style="margin: 2px 0; font-size: 18px">Jiaxi Zhao</h3>
+      <p style="margin: 0px 0;">Master, 2025-present</p>
     </div>
   </div>
 </div>
