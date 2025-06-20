@@ -172,5 +172,3 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
 </div>
-
-</div>
