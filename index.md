@@ -161,13 +161,13 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   </div>
 
   <div style="width: 160px; text-align: center;">
-    <img src="../assets/ruoji.jpg" alt="Ruoji" style="width: 160px; height: 160px; border-radius: 50%;">
+    <img src="../assets/jiaxi.jpg" alt="Ruoji" style="width: 160px; height: 160px; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Ruoji Wang</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
 
   <div style="width: 160px; text-align: center;">
-    <img src="../assets/jiaxi.jpg" alt="Jiaxi" style="width: 160px; height: 160px; border-radius: 50%;">
+    <img src="../assets/ruoji.jpg" alt="Jiaxi" style="width: 160px; height: 160px; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Jiaxi Zhao</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
