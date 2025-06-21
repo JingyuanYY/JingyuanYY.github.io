@@ -134,7 +134,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
   <h3 style="margin-bottom: 20px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
 </center>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
   <!-- 成员卡片 -->
   <div style="width: 160px; text-align: center;">
     <img src="../assets/jiawei.jpg" alt="Jiawei" style="width: 160px; height: 160px; border-radius: 50%;">
@@ -172,3 +172,4 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
 </div>
+
