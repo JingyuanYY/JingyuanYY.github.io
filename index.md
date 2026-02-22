@@ -25,8 +25,9 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # News
 ---
 
+- &#128293; <span style="color: black; font-weight: bold;">**2026.02.22**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2025.09.25**</span>: **Proud of Jiawei for receiving the China National Scholarship!** &#127942;
-- &#128293; <span style="color: black; font-weight: bold;">**2025.02.27**</span>: **EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin!** &#127881;
+- **2025.02.27**: EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin! &#127881;
 - **2024.12.07**: I started to serve as the Deputy Secretary-General of the CSIG Technical Committee on Affective Computing and Understanding. &#128084;
 - **2024.08.08**: EmoSet has won the Graphic Open Source Dataset Award (CCF CAD&CG 2024). &#127942;
 - **2024.02.27**: EmoGen has been accepted to CVPR 2024. Congrats to Jiawei! &#127881;
@@ -37,10 +38,19 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # Publications
 ---
 
+- **EmoStyle: Emotion-Driven Image Stylization**
+    <br>**Jingyuan Yang**, Zihuan Bai, and Hui Huang\*
+    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
+    <br>[Project page](https://vcc.tech/research/2025/EmoEdit)\[[Code](https://github.com/JingyuanYY/EmoStyle)\]\[[PDF](https://arxiv.org/abs/2512.05478)\]
+    
+    <div align="center">
+    <img src="../assets/7.png" width="70%">
+    </div>
+
 - **EmoEdit: Evoking Emotions through Image Manipulation**
     <br>**Jingyuan Yang**, Jiawei Feng, Weibin Luo, Dani Lischinski, Daniel Cohen-Or, and Hui Huang\*
     <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 24690-24699, 2025
-    <br>\[[Project page](https://vcc.tech/research/2025/EmoEdit)\]\[[Code](https://github.com/JingyuanYY/EmoEdit)\]\[[PDF](https://arxiv.org/pdf/2405.12661)\]\[[机器之心推文](https://mp.weixin.qq.com/s/EQGA5NXOzArFRYQ63IQ1kA)\]
+    <br>\[[Project page](https://vcc.tech/research/2025/EmoEdit)\]\[[Code](https://github.com/JingyuanYY/EmoEdit)\]\[[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_EmoEdit_Evoking_Emotions_through_Image_Manipulation_CVPR_2025_paper.html)\]\[[机器之心推文](https://mp.weixin.qq.com/s/EQGA5NXOzArFRYQ63IQ1kA)\]
     
     <div align="center">
     <img src="../assets/7.png" width="70%">
