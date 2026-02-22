@@ -25,7 +25,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # News
 ---
 
-- &#128293; <span style="color: black; font-weight: bold;">**2026.02.22**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
+- &#128293; <span style="color: black; font-weight: bold;">**2026.02.21**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2025.09.25**</span>: **Proud of Jiawei for receiving the China National Scholarship!** &#127942;
 - **2025.02.27**: EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin! &#127881;
 - **2024.12.07**: I started to serve as the Deputy Secretary-General of the CSIG Technical Committee on Affective Computing and Understanding. &#128084;
