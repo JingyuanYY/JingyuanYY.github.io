@@ -44,7 +44,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <br>[Project page](https://vcc.tech/research/2025/EmoEdit)\[[Code](https://github.com/JingyuanYY/EmoStyle)\]\[[PDF](https://arxiv.org/abs/2512.05478)\]
     
     <div align="center">
-    <img src="../assets/7.png" width="70%">
+    <img src="../assets/8.png" width="70%">
     </div>
 
 - **EmoEdit: Evoking Emotions through Image Manipulation**
