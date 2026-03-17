@@ -25,6 +25,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # News
 ---
 
+- &#128293; <span style="color: black; font-weight: bold;">**2026.03.17**</span>: **EmoStory has been accepted to ICME 2026. Congrats to Rucong and Weibin!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.02.21**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2025.09.25**</span>: **Proud of Jiawei for receiving the China National Scholarship!** &#127942;
 - **2025.02.27**: EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin! &#127881;
@@ -40,8 +41,17 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 - **EmoStyle: Emotion-Driven Image Stylization**
     <br>**Jingyuan Yang**, Zihuan Bai, and Hui Huang\*
-    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
+    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026
     <br>\[[Project page](https://vcc.tech/research/2026/EmoStyle)\]\[[Code](https://github.com/JingyuanYY/EmoStyle)\]\[[PDF](https://arxiv.org/abs/2512.05478)\]
+    
+    <div align="center">
+    <img src="../assets/8.png" width="70%">
+    </div>
+
+- **EmoStory: Emotion-Aware Story Generation**
+    <br>**Jingyuan Yang**, Rucong Chen, Weibin Luo, and Hui Huang\*
+    <br>IEEE International Conference on Multimedia and Expo (**ICME**), accepted, 2026
+    <br>\[[Code](https://github.com/JingyuanYY/EmoStory)\]\[[PDF](https://arxiv.org/pdf/2603.10349)\]
     
     <div align="center">
     <img src="../assets/8.png" width="70%">
