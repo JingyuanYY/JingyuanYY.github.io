@@ -41,8 +41,8 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 - **EmoStyle: Emotion-Driven Image Stylization**
     <br>**Jingyuan Yang**, Zihuan Bai, and Hui Huang\*
-    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026
-    <br>\[[Project page](https://vcc.tech/research/2026/EmoStyle)\]\[[Code](https://github.com/JingyuanYY/EmoStyle)\]\[[PDF](https://arxiv.org/abs/2512.05478)\]
+    <br>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026 
+    <br>\[[Project page](https://vcc.tech/research/2026/EmoStyle)\]\[[Code](https://github.com/JingyuanYY/EmoStyle)\]\[[PDF](https://arxiv.org/abs/2512.05478)\]\[[机器之心推文](https://mp.weixin.qq.com/s/S-B3zwBXCRdYqoqzo0xYgQ)\]
     
     <div align="center">
     <img src="../assets/8.png" width="70%">
