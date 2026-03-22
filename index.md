@@ -130,7 +130,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 - **Introduction to Visualization (可视化信息处理导论)** – Undergraduate Course
 - **Professional English (专业英语)** – Undergraduate Course
-- **Machine Learning (机器学习)** – Graduate Course
+- **Visual Affective Computing (视觉情感计算)** – Graduate Course
     
 
 # Awards
