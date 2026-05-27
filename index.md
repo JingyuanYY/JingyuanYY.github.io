@@ -26,7 +26,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 ---
 
 - &#128293; <span style="color: black; font-weight: bold;">**2026.05.19**</span>: **AGER has been accepted to TAFFC. Congrats to Tingting!** &#127881;
-- &#128293; <span style="color: black; font-weight: bold;">**2026.03.17**</span>: **EmoStory has been accepted to ICME 2026, designated as <span style="color:red">oral</span>! Congrats to Rucong and Weibin!** &#127881;
+- &#128293; <span style="color: black; font-weight: bold;">**2026.03.17**</span>: **EmoStory has been accepted to ICME 2026, designated as oral! Congrats to Rucong and Weibin!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.02.21**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
 - **2025.09.25**: Proud of Jiawei for receiving the China National Scholarship! &#127942;
 - **2025.02.27**: EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin! &#127881;
