@@ -51,7 +51,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 - **EmoStory: Emotion-Aware Story Generation**
     <br>**Jingyuan Yang**, Rucong Chen, Weibin Luo, and Hui Huang\*
-    <br>IEEE International Conference on Multimedia and Expo (**ICME**), <span style="color:red">oral</span>, 2026
+    <br>IEEE International Conference on Multimedia and Expo (**ICME**), <font color="red"><b>Oral</b></font>, 2026
     <br>\[[Code](https://github.com/JingyuanYY/EmoStory)\]\[[PDF](https://arxiv.org/pdf/2603.10349)\]
     
     <div align="center">
