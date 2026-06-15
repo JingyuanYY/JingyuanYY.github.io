@@ -10,7 +10,8 @@ title: "Jingyuan Yang"
 
 2013年于西安电子科技大学电子工程学院卓越工程师班就读本科，2017年保送本校直接攻读博士学位，师从高新波教授，期间获西北地区英语演讲比赛第一名、国家奖学金及陕西省优秀毕业生等荣誉。研究方向为计算机视觉，主要集中在视觉情感计算，旨在理解人类对不同视觉信息产生的情感体验，生成具有情感色彩的图片。
 
-担任中国图象图形学学会CSIG情感计算与理解专委会副秘书长、广东省图象图形学会GDSIG情感计算专委会副秘书长、中国中文信息学会CIPS情感计算专委会委员。担任IEEE Transactions on Image Processing、IEEE Transactions on Multimedia、IEEE Transactions on Affective Computing、CVPR、ICCV、ACMMM等期刊会议审稿人。研究成果主要发表在计算机视觉顶级期刊IEEE Transactions on Image Processing和顶级会议CVPR、ICCV上。作为项目负责人主持：国家自然科学基金青年项目1项 (2024-2026)，广东省面上项目1项 (2023-2025)。获2023年度CSIG情感智能大会Best Poster Award，2024年度CCF优秀图形开源数据集奖，2024年度CVPR优秀审稿人。
+担任中国图象图形学学会CSIG情感计算与理解专委会副秘书长、广东省图象图形学会GDSIG情感计算专委会副秘书长、中国中文信息学会CIPS情感计算专委会委员。担任IEEE Transactions on Image Processing、IEEE Transactions on Multimedia、IEEE Transactions on Affective Computing、CVPR、ICCV、ACMMM等期刊会议审稿人。研究成果主要发表在计算机视觉顶级期刊IEEE Transactions on Image Processing和顶级会议CVPR、ICCV上。作为项目负责人主持：国家自然科学基金青年项目1项 (2024-2026)，广东省自然科学基金面上项目1项 (2023-2026),深圳市自
+然科学基金青年项目1项 (2026-2028)。获2023年度CSIG情感智能大会Best Poster Award，2024年度CCF优秀图形开源数据集奖，2024年度CVPR优秀审稿人。
 
 # About Me
 ---
@@ -126,7 +127,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # Fundings
 ---
 - **National Natural Science Foundation of China, Young Scientists Program** (Hosted, 2024-2026)
-- **Natural Science Foundation of Guangdong Province, General Program** (Hosted, 2023-2025)
+- **Natural Science Foundation of Guangdong Province, General Program** (Hosted, 2023-2026)
 - **Natural Science Foundation of Shenzhen, Young Scientists Program** (Hosted, 2026–2028)
 
 # Courses
