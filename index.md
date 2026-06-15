@@ -26,10 +26,11 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # News
 ---
 
+- &#128293; <span style="color: black; font-weight: bold;">**2026.05.22**: Proud of Jiawei, SZU Outstanding Graduate! &#127942;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.05.19**</span>: **AGER has been accepted to TAFFC. Congrats to Tingting!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.03.17**</span>: **EmoStory has been accepted to ICME 2026, designated as oral! Congrats to Rucong and Weibin!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.02.21**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
-- **2025.09.25**: Proud of Jiawei for receiving the China National Scholarship! &#127942;
+- **2025.09.25**: Proud of Jiawei, China National Scholarship! &#127942;
 - **2025.02.27**: EmoEdit has been accepted to CVPR 2025. Congrats to Jiawei and Weibin! &#127881;
 - **2024.12.07**: I started to serve as the Deputy Secretary-General of the CSIG Technical Committee on Affective Computing and Understanding. &#128084;
 - **2024.08.08**: EmoSet has won the Graphic Open Source Dataset Award (CCF CAD&CG 2024). &#127942;
@@ -52,7 +53,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 - **EmoStory: Emotion-Aware Story Generation**
     <br>**Jingyuan Yang**, Rucong Chen, Weibin Luo, and Hui Huang\*
-    <br>IEEE International Conference on Multimedia and Expo (**ICME**), <font color="red"><b>Oral</b></font>, 2026
+    <br>IEEE International Conference on Multimedia and Expo (**ICME**), **Oral**, 2026
     <br>\[[Code](https://github.com/JingyuanYY/EmoStory)\]\[[PDF](https://arxiv.org/pdf/2603.10349)\]
     
     <div align="center">
@@ -126,15 +127,14 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 ---
 - **National Natural Science Foundation of China, Young Scientists Program** (Hosted, 2024-2026)
 - **Natural Science Foundation of Guangdong Province, General Program** (Hosted, 2023-2025)
+- **Natural Science Foundation of Shenzhen, Young Scientists Program** (Hosted, 2026–2028)
 
 # Courses
 ---
-
 - **Introduction to Visualization (可视化信息处理导论)** – Undergraduate Course
 - **Professional English (专业英语)** – Undergraduate Course
 - **Visual Affective Computing (视觉情感计算)** – Graduate Course
     
-
 # Awards
 ---
 
