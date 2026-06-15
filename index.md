@@ -26,7 +26,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 # News
 ---
 
-- &#128293; <span style="color: black; font-weight: bold;">**2026.05.22**: Proud of Jiawei, SZU Outstanding Graduate! &#127942;
+- &#128293; <span style="color: black; font-weight: bold;">**2026.05.22**</span>: **Proud of Jiawei, SZU Outstanding Graduate!** &#127942;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.05.19**</span>: **AGER has been accepted to TAFFC. Congrats to Tingting!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.03.17**</span>: **EmoStory has been accepted to ICME 2026, designated as oral! Congrats to Rucong and Weibin!** &#127881;
 - &#128293; <span style="color: black; font-weight: bold;">**2026.02.21**</span>: **EmoStyle has been accepted to CVPR 2026. Congrats to Zihuan!** &#127881;
