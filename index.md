@@ -203,16 +203,22 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 <div style="width: 100%; margin: 0; padding-left: 18px; box-sizing: border-box;">
 
-  <div style="display: grid; grid-template-columns: 190px 270px minmax(0, 1fr); column-gap: 16px; align-items: start; padding: 12px 0; font-size: 16px; text-align: left;">
+  <div style="display: grid; grid-template-columns: 190px 270px 260px minmax(0, 1fr); column-gap: 16px; align-items: start; padding: 12px 0; font-size: 16px; text-align: left;">
 
-    <span style="font-weight: 600; color: #222;">Jiawei Feng</span>
+    <span style="font-weight: 600; color: #222;">
+      Jiawei Feng
+    </span>
 
     <span style="text-align: center; white-space: nowrap;">
       2023–2026, Master
     </span>
 
-    <span style="display: block; width: 100%; text-align: left; white-space: nowrap;">
-      Sangfor Technologies. CVPR × 2. SZU Outstanding Graduate. China National Scholarship.
+    <span style="white-space: nowrap;">
+      Sangfor Technologies.
+    </span>
+
+    <span style="white-space: nowrap;">
+      CVPR × 2. SZU Outstanding Graduate. China National Scholarship.
     </span>
 
   </div>
