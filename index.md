@@ -210,7 +210,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </span>
 
     <span>
-      2023–2026, Master
+      2023–2026
     </span>
 
     <span>
@@ -218,7 +218,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </span>
 
     <span>
-      CVPR × 2. SZU Outstanding Graduate. China National Scholarship.
+      CVPR × 2, SZU Outstanding Graduate, China National Scholarship.
     </span>
 
   </div>
