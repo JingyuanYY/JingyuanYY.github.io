@@ -209,11 +209,15 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
     <span>2023–2026, Master</span>
 
-    <span style="display: block; width: 100%; text-align: right;">
-      Sangfor Technologies, Algorithm Development Engineer.
-      CVPR × 2 (<i>EmoGen</i>, <i>EmoEdit</i>).
-      SZU Outstanding Graduate, China National Scholarship.
+    <span style="display: block; width: 100%; text-align: left;">
+      Sangfor Technologies · Algorithm Development Engineer ·
+      CVPR × 2 (<i>EmoGen</i>, <i>EmoEdit</i>) ·
+      SZU Outstanding Graduate · China National Scholarship
     </span>
+
+  </div>
+
+</div>
 
   </div>
 
