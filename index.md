@@ -203,14 +203,10 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 <div style="max-width: 1000px; margin: 0 auto;">
 
-  <div style="display: grid; grid-template-columns: 1fr 0.7fr 2.2fr; gap: 30px; align-items: center; padding: 12px 20px; background: #fafafa; font-size: 16px;">
+  <div style="display: grid; grid-template-columns: 1fr 0.7fr 2fr; gap: 30px; align-items: center; padding: 12px 20px; background: #fafafa; font-size: 16px;">
     <span style="font-weight: 600; color: #9b004b;">Jiawei Feng</span>
     <span>2023–2026</span>
-    <span>
-      Master, Sangfor Technologies, Algorithm Development Engineer·
-      CVPR × 2 (<i>EmoGen</i>, <i>EmoEdit</i>) ·
-      SZU Outstanding Graduate · China National Scholarship
-    </span>
+    <span>Master, Sangfor Technologies · Algorithm Development Engineer</span>
   </div>
 
 </div>
