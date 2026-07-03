@@ -214,7 +214,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     </span>
 
     <span>
-      Sangfor Technologies.
+      Sangfor Technologies
     </span>
 
     <span>
