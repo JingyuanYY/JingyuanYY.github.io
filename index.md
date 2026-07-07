@@ -161,11 +161,6 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
   <!-- 成员卡片 -->
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/jiawei.jpg" alt="Jiawei" style="width: 160px; height: 160px; border-radius: 50%;">
-    <h3 style="margin: 5px 0; font-size: 18px;">Jiawei Feng</h3>
-    <p style="margin: 0; font-size: 12px;">Master, 2023-present</p>
-  </div>
 
   <div style="width: 160px; text-align: center;">
     <img src="../assets/weibin.jpg" alt="Weibin" style="width: 160px; height: 160px; border-radius: 50%;">
@@ -196,6 +191,14 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <h3 style="margin: 5px 0; font-size: 18px;">Jiaxi Zhao</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
+
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/dingxiang.png" alt="Dingxiang" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Xiang Ding</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2026-present</p>
+  </div>
+
+
 </div>
 
 # Graduated Students
