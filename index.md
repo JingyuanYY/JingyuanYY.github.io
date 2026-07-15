@@ -48,7 +48,7 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 - **EmoCtrl: Controllable Emotional Image Content Generation**
     <br>**Jingyuan Yang**, Weibin Luo, and Hui Huang\*
     <br>The 34nd ACM International Conference on Multimedia (**ACMMM**), accepted, 2026 
-    <br>\[[Project page]\]\[[Code](https://github.com/JingyuanYY/EmoCtrl)\]\[[PDF](https://arxiv.org/pdf/2512.22437)\]
+    <br>[Project page]\[[Code](https://github.com/JingyuanYY/EmoCtrl)\]\[[PDF](https://arxiv.org/pdf/2512.22437)\]
     
     <div align="center">
     <img src="../assets/10.png" width="70%">
