@@ -1,8 +1,3 @@
-<img width="2415" height="935" alt="image" src="https://github.com/user-attachments/assets/44488cb7-89eb-444d-acd6-49c50fbde48b" /><img width="2415" height="935" alt="image" src="https://github.com/user-attachments/assets/8d7f812d-2a54-462f-a9f4-2acb1e0b914b" />---
-layout: home
-title: "Jingyuan Yang"
----
-
 # 个人简介
 ---
 
