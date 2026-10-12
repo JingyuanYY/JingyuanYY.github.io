@@ -208,6 +208,12 @@ My research interest  is computer vision, affective computing and AIGC, currentl
     <p style="margin: 0; font-size: 12px;">Master, 2026-present</p>
   </div>
 
+  <div style="width: 160px; text-align: center;">
+    <img src="../assets/licheng.jpg" alt="LiCheng" style="width: 160px; height: 160px; border-radius: 50%;">
+    <h3 style="margin: 5px 0; font-size: 18px;">Cheng Li</h3>
+    <p style="margin: 0; font-size: 12px;">Master, 2026-present</p>
+  </div>
+
 
 </div>
 
