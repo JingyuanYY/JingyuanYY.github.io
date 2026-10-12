@@ -163,53 +163,61 @@ My research interest  is computer vision, affective computing and AIGC, currentl
 - **Badminton** (Women's singles champion in the Freshmen Cup at Xidian Univeristy)
 - **Piano** (Amateur six level certificate of piano)
 
+
 # Current Students
 ---
+
 <center>
   <h3 style="margin-bottom: 20px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
 </center>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-  <!-- 成员卡片 -->
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 20px; overflow-x: auto; padding: 10px 0;">
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/weibin.jpg" alt="Weibin" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Weibin Luo -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/weibin.jpg" alt="Weibin" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Weibin Luo</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
   </div>
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/zihuan.jpg" alt="Zihuan" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Zihuan Bai -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/zihuan.jpg" alt="Zihuan" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Zihuan Bai</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
   </div>
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/rucong.jpg" alt="Rucong" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Rucong Chen -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/rucong.jpg" alt="Rucong" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Rucong Chen</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2024-present</p>
   </div>
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/jiaxi.jpg" alt="Ruoji" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Ruoji Wang -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/jiaxi.jpg" alt="Ruoji" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Ruoji Wang</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/ruoji.jpg" alt="Jiaxi" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Jiaxi Zhao -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/ruoji.jpg" alt="Jiaxi" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Jiaxi Zhao</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2025-present</p>
   </div>
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/dingxiang.png" alt="Dingxiang" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Xiang Ding -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/dingxiang.png" alt="Dingxiang" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Xiang Ding</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2026-present</p>
   </div>
 
-  <div style="width: 160px; text-align: center;">
-    <img src="../assets/licheng.jpg" alt="LiCheng" style="width: 160px; height: 160px; border-radius: 50%;">
+  <!-- Cheng Li -->
+  <div style="flex: 0 0 130px; text-align: center;">
+    <img src="../assets/licheng.jpg" alt="LiCheng" style="width: 130px; height: 130px; object-fit: cover; border-radius: 50%;">
     <h3 style="margin: 5px 0; font-size: 18px;">Cheng Li</h3>
     <p style="margin: 0; font-size: 12px;">Master, 2026-present</p>
   </div>
